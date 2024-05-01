@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.container{
+    width:35%;
+    height:200px;
+    display:block;
+    border:2px solid black;
+    margin:15% auto ;
+    border-radius: 10px;
+    background-color: rgb(21, 203, 203);
+     
+}
+
+#count_label{
+    font-size:5em;
+    font-weight: bold;
+    text-align: center;
+    margin:250px;
+
+}
+.Btn{
+    width:150px;
+    height:40px;
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(224, 177, 11);
+    color:white;
+    cursor:pointer;
+}
+.Btn:hover{
+    background-color: rgba(224, 178, 11, 0.778);
+}
+
